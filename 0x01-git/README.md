@@ -31,6 +31,7 @@ alx-pre_course
    
    *Basic markdown
    *HTML
+   *Loading...
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
